@@ -39,6 +39,6 @@ Go [here](https://sudo-challenge-mapmd.github.io/mapper/stream.html) and tap on 
 
 Other possible options to improve vision:
 1. Adding zoom similar to [GiveVision](http://www.givevision.net/)
-2. Instead of warping increase the contrast/exposure in that area
+2. Instead of warping increase the contrast/exposure in that area.
 
 ![car](https://github.com/sudo-challenge-mapmd/mapper/raw/master/car.png)
